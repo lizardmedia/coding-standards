@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Maciej Sławik <maciej.slawik@lizardmedia.pl>
+ * @copyright Copyright (C) 2017 Lizard Media (http://lizardmedia.pl)
+ */
+-->
+<ruleset name="LizardMedia">
+    <description>PHP Code Sniffer ruleset by Lizard Media</description>
+    <rule ref="PSR2"/>
+</ruleset>
+
