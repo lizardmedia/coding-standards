@@ -1,0 +1,16 @@
+{
+    "name"             : "lizardmedia/coding-standards",
+    "description"      : "Lizard Media coding standards",
+    "minimum-stability": "stable",
+    "type"             : "library",
+    "authors"          : [
+        {
+            "name"    : "Paweł Biliński",
+            "email"   : "pawel@lizardmedia.pl"
+        },
+        {
+            "name"    : "Maciej Sławik",
+            "email"   : "maciej.slawik@lizardmedia.pl"
+        }
+    ]
+}
